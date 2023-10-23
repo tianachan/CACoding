@@ -1,6 +1,6 @@
 package interface_adapter.clear_users;
 
-// TODO Complete me
+import interface_adapter.signup.SignupViewModel;
 
-public class ClearViewModel {
+public class ClearViewModel extends SignupViewModel {
 }
